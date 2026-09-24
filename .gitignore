@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+rms_dados.db
+.venv/
+venv/
